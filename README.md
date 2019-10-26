@@ -10,3 +10,10 @@ Deepnest is a desktop application based on [SVGNest](https://github.com/Jack000/
 - merges common lines for laser cuts
 - support for DXF files (via conversion)
 - new path approximation feature for highly complex parts
+
+------
+**Good app!**
+
+Thanks Jack Qiao!
+
+I added functionality in this app.
